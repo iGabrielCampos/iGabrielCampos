@@ -100,9 +100,9 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGabrielCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=iGabrielCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGabrielCampos&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iGabrielCampos&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
