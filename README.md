@@ -100,9 +100,9 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGabrielCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGabrielCampos&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -112,7 +112,7 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=iGabrielCampos&theme=tokyonight&hide_border=false"/>
 
 </div>
 
@@ -122,7 +122,7 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iGabrielCampos/iGabrielCampos/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -144,7 +144,7 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/iGabrielCampos">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
