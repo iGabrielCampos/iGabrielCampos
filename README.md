@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Gabriel Crispim
 
-### 💻 Desenvolvedor em formação | Backend | Python | Django
+### 💻 Desenvolvedor em formação | Fullstack | Python | Django
 
-Sou estudante de Desenvolvimento de Software, com foco principalmente em **Backend** e no desenvolvimento de aplicações utilizando **Python e Django**.
+Sou estudante de Desenvolvimento de Software, com foco principalmente em **Fullstack** e no desenvolvimento de aplicações utilizando **Python e Django**.
 
 Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, APIs REST, bancos de dados e boas práticas de programação.
 
@@ -19,7 +19,7 @@ Busco transformar conhecimento em projetos práticos e evoluir constantemente co
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Fullstack & Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
@@ -134,7 +134,7 @@ Sistema para gerenciamento de uma biblioteca, envolvendo livros, autores, exempl
 
 ## 🎯 Atualmente
 
-* 📚 Estudando desenvolvimento Backend
+* 📚 Estudando desenvolvimento Fullstack
 * 🐍 Aprimorando meus conhecimentos em Python
 * 🌐 Desenvolvendo aplicações com Django
 * 🔌 Aprendendo desenvolvimento de APIs REST
