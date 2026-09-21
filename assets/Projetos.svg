@@ -1,0 +1,139 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .badge-title { font-weight: 700; font-size: 13px; letter-spacing: 1.5px; fill: #bb9af7; }
+      .subtitle { font-size: 13px; fill: #565f89; }
+      .card-title { font-weight: 700; font-size: 15px; fill: #c0caf5; }
+      .tag-text { font-size: 10px; font-weight: 600; fill: #bb9af7; }
+      .card-desc { font-size: 12px; fill: #c0caf5; line-height: 1.5; }
+      .btn-text { font-weight: 700; font-size: 11px; fill: #1a1b27; letter-spacing: 0.5px; }
+      .btn-disabled-text { font-weight: 600; font-size: 11px; fill: #565f89; letter-spacing: 0.5px; }
+      .tag-bg { fill: #292e42; stroke: #414868; stroke-width: 0.8; rx: 4px; }
+      .proj-card { fill: #1f2335; stroke: #414868; stroke-width: 1.2; rx: 10px; }
+      .btn-cta { fill: #bb9af7; rx: 6px; }
+      .btn-off { fill: #24283b; stroke: #414868; stroke-width: 0.8; rx: 6px; }
+      .btn-link { cursor: pointer; }
+      .btn-link:hover .btn-cta { fill: #cbb2f9; }
+    </style>
+  </defs>
+
+  <!-- Fundo Principal -->
+  <rect width="800" height="520" rx="14" fill="#1a1b27" stroke="#414868" stroke-width="1.2" />
+
+  <!-- Título e Subtítulo -->
+  <g transform="translate(330, 24)">
+    <rect width="140" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
+    <text x="70" y="21" text-anchor="middle" class="mono badge-title">✨ PROJECTS</text>
+  </g>
+  <text x="400" y="80" text-anchor="middle" class="mono subtitle">Selected projects highlighting my software development journey.</text>
+
+  <!-- GRADE DE PROJETOS -->
+
+  <!-- CARD 1: CineTrack (Coluna 1, Linha 1) -->
+  <g transform="translate(30, 105)">
+    <rect width="355" height="185" class="proj-card" />
+    <text x="20" y="32" class="mono card-title">🎬 CineTrack</text>
+    
+    <!-- Tags -->
+    <g transform="translate(20, 44)">
+      <rect width="58" height="20" class="tag-bg" />
+      <text x="29" y="14" text-anchor="middle" class="mono tag-text">Django</text>
+    </g>
+    <g transform="translate(84, 44)">
+      <rect width="58" height="20" class="tag-bg" />
+      <text x="29" y="14" text-anchor="middle" class="mono tag-text">Python</text>
+    </g>
+
+    <text x="20" y="90" class="mono card-desc">Series tracking and discovery built with</text>
+    <text x="20" y="108" class="mono card-desc">Django and external API integration.</text>
+
+    <!-- Botão com Link -->
+    <a href="https://github.com/iGabrielCampos/CineTrack" target="_blank" class="btn-link">
+      <g transform="translate(20, 134)">
+        <rect width="130" height="32" class="btn-cta" />
+        <!-- Mini GitHub Icon -->
+        <path d="M14 10a6 6 0 0 0-1.9 11.7c.3.1.4-.1.4-.3v-1.1c-1.7.4-2-.7-2-.7-.3-.7-.7-.9-.7-.9-.5-.4 0-.3 0-.3.6.1 1 .6 1 .6.5.9 1.4.7 1.8.5.1-.4.3-.7.4-.9-1.4-.2-2.8-.7-2.8-3.1 0-.7.2-1.2.7-1.7 0-.2-.3-.9.1-1.7 0 0 .5-.2 1.8.7a6.2 6.2 0 0 1 3.2 0c1.3-.9 1.8-.7 1.8-.7.4.8.1 1.5.1 1.7.5.5.7 1 .7 1.7 0 2.4-1.4 2.9-2.8 3.1.2.2.5.7.5 1.4v2.1c0 .2.1.4.4.3A6 6 0 0 0 14 10z" fill="#1a1b27" />
+        <text x="75" y="20" text-anchor="middle" class="mono btn-text">VIEW PROJECT</text>
+      </g>
+    </a>
+  </g>
+
+  <!-- CARD 2: CRUD TypeScript (Coluna 2, Linha 1) -->
+  <g transform="translate(415, 105)">
+    <rect width="355" height="185" class="proj-card" />
+    <text x="20" y="32" class="mono card-title">⌨️ CRUD TypeScript</text>
+    
+    <!-- Tags -->
+    <g transform="translate(20, 44)">
+      <rect width="80" height="20" class="tag-bg" />
+      <text x="40" y="14" text-anchor="middle" class="mono tag-text">TypeScript</text>
+    </g>
+    <g transform="translate(106, 44)">
+      <rect width="60" height="20" class="tag-bg" />
+      <text x="30" y="14" text-anchor="middle" class="mono tag-text">Node.js</text>
+    </g>
+
+    <text x="20" y="90" class="mono card-desc">Complete TypeScript CRUD focusing on</text>
+    <text x="20" y="108" class="mono card-desc">static typing and best practices.</text>
+
+    <!-- Botão com Link -->
+    <a href="https://github.com/iGabrielCampos/CRUD_typescript" target="_blank" class="btn-link">
+      <g transform="translate(20, 134)">
+        <rect width="130" height="32" class="btn-cta" />
+        <path d="M14 10a6 6 0 0 0-1.9 11.7c.3.1.4-.1.4-.3v-1.1c-1.7.4-2-.7-2-.7-.3-.7-.7-.9-.7-.9-.5-.4 0-.3 0-.3.6.1 1 .6 1 .6.5.9 1.4.7 1.8.5.1-.4.3-.7.4-.9-1.4-.2-2.8-.7-2.8-3.1 0-.7.2-1.2.7-1.7 0-.2-.3-.9.1-1.7 0 0 .5-.2 1.8.7a6.2 6.2 0 0 1 3.2 0c1.3-.9 1.8-.7 1.8-.7.4.8.1 1.5.1 1.7.5.5.7 1 .7 1.7 0 2.4-1.4 2.9-2.8 3.1.2.2.5.7.5 1.4v2.1c0 .2.1.4.4.3A6 6 0 0 0 14 10z" fill="#1a1b27" />
+        <text x="75" y="20" text-anchor="middle" class="mono btn-text">VIEW PROJECT</text>
+      </g>
+    </a>
+  </g>
+
+  <!-- CARD 3: Agendamento de Estúdios (Coluna 1, Linha 2) -->
+  <g transform="translate(30, 310)">
+    <rect width="355" height="185" class="proj-card" />
+    <text x="20" y="32" class="mono card-title">📻 Studio Booking System</text>
+    
+    <!-- Tags -->
+    <g transform="translate(20, 44)">
+      <rect width="98" height="20" class="tag-bg" />
+      <text x="49" y="14" text-anchor="middle" class="mono tag-text">Modeling</text>
+    </g>
+    <g transform="translate(124, 44)">
+      <rect width="46" height="20" class="tag-bg" />
+      <text x="23" y="14" text-anchor="middle" class="mono tag-text">DER</text>
+    </g>
+
+    <text x="20" y="90" class="mono card-desc">Database modeling and architecture for</text>
+    <text x="20" y="108" class="mono card-desc">recording studio schedule management.</text>
+
+    <!-- Botão Desabilitado / Sem código -->
+    <g transform="translate(20, 134)">
+      <rect width="130" height="32" class="btn-off" />
+      <text x="65" y="20" text-anchor="middle" class="mono btn-disabled-text">MODELING</text>
+    </g>
+  </g>
+
+  <!-- CARD 4: Sistema de Biblioteca (Coluna 2, Linha 2) -->
+  <g transform="translate(415, 310)">
+    <rect width="355" height="185" class="proj-card" />
+    <text x="20" y="32" class="mono card-title">📚 Library System</text>
+    
+    <!-- Tags -->
+    <g transform="translate(20, 44)">
+      <rect width="98" height="20" class="tag-bg" />
+      <text x="49" y="14" text-anchor="middle" class="mono tag-text">Modeling</text>
+    </g>
+    <g transform="translate(124, 44)">
+      <rect width="52" height="20" class="tag-bg" />
+      <text x="26" y="14" text-anchor="middle" class="mono tag-text">CRUD</text>
+    </g>
+
+    <text x="20" y="90" class="mono card-desc">Database schema and management for</text>
+    <text x="20" y="108" class="mono card-desc">books, authors, and loan tracking.</text>
+
+    <!-- Botão Desabilitado / Sem código -->
+    <g transform="translate(20, 134)">
+      <rect width="130" height="32" class="btn-off" />
+      <text x="65" y="20" text-anchor="middle" class="mono btn-disabled-text">MODELING</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .title-text { font-weight: 700; font-size: 13px; letter-spacing: 1.2px; fill: #bb9af7; }
+      .pill-text { font-weight: 600; font-size: 12px; fill: #c0caf5; letter-spacing: 0.8px; }
+      .icon-stroke { stroke: #7aa2f7; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .pill { fill: #292e42; stroke: #414868; stroke-width: 1.2; rx: 18px; }
+    </style>
+  </defs>
+
+  <!-- Fundo Principal -->
+  <rect width="800" height="150" rx="14" fill="#1a1b27" stroke="#414868" stroke-width="1.2" />
+
+  <!-- Tag de Título Centralizada -->
+  <g transform="translate(190, 22)">
+    <rect width="420" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
+    <text x="210" y="21" text-anchor="middle" class="mono title-text">⚙️ TOOLS & TECHNOLOGIES I USE DAILY</text>
+  </g>
+
+  <!-- Linha de Badges (Pills) -->
+  <g transform="translate(42, 80)">
+    <!-- GIT -->
+    <g transform="translate(0, 0)">
+      <rect width="128" height="38" class="pill" />
+      <g transform="translate(16, 11)">
+        <circle cx="4" cy="8" r="2.5" class="icon-stroke" />
+        <circle cx="12" cy="4" r="2.5" class="icon-stroke" />
+        <circle cx="12" cy="12" r="2.5" class="icon-stroke" />
+        <path d="M4 8h5m3-5v5" class="icon-stroke" />
+      </g>
+      <text x="44" y="24" class="mono pill-text">GIT</text>
+    </g>
+
+    <!-- GITHUB -->
+    <g transform="translate(142, 0)">
+      <rect width="138" height="38" class="pill" />
+      <g transform="translate(16, 11)">
+        <path d="M8 1a7 7 0 0 0-2.2 13.6c.3.1.5-.1.5-.3v-1.2c-2 .4-2.4-.8-2.4-.8-.3-.8-.8-1-8-1-.6-.4 0-.4 0-.4.7.1 1.1.7 1.1.7.6 1.1 1.7.8 2.1.6.1-.5.3-.8.5-1-1.6-.2-3.3-.8-3.3-3.6 0-.8.3-1.4.8-2-.1-.2-.3-1 .1-2 0 0 .6-.2 2.1.8a7.2 7.2 0 0 1 3.8 0c1.5-1 2.1-.8 2.1-.8.4 1 .2 1.8.1 2 .5.5.8 1.2.8 2 0 2.8-1.7 3.4-3.3 3.6.3.3.6.8.6 1.6v2.4c0 .2.2.4.5.3A7 7 0 0 0 8 1z" class="icon-stroke" stroke-width="1.2" />
+      </g>
+      <text x="44" y="24" class="mono pill-text">GITHUB</text>
+    </g>
+
+    <!-- VS CODE -->
+    <g transform="translate(294, 0)">
+      <rect width="144" height="38" class="pill" />
+      <g transform="translate(16, 11)">
+        <path d="M12 2l-7 5.5L1 4.5v7l4-3 7 5.5z" class="icon-stroke" stroke-width="1.3" />
+      </g>
+      <text x="43" y="24" class="mono pill-text">VS CODE</text>
+    </g>
+
+    <!-- PYTHON -->
+    <g transform="translate(452, 0)">
+      <rect width="134" height="38" class="pill" />
+      <g transform="translate(16, 11)">
+        <path d="M8 2c-3.3 0-3 1.4-3 1.4V5h6v1H5c-2 0-3 1.2-3 2.7 0 1.6 1.7 2.6 3 2.6v-1.2c0-1.4 1.2-1.4 1.2-1.4h5.8s1-.1 1-1.3V3.4C13 2.2 11.3 2 8 2zm-1 1.2a.6.6 0 1 1 0 1.2.6.6 0 0 1 0-1.2z" class="icon-stroke" stroke-width="1.1" />
+      </g>
+      <text x="42" y="24" class="mono pill-text">PYTHON</text>
+    </g>
+
+    <!-- DJANGO -->
+    <g transform="translate(600, 0)">
+      <rect width="116" height="38" class="pill" />
+      <g transform="translate(16, 11)">
+        <rect x="2" y="2" width="12" height="12" rx="2" class="icon-stroke" stroke-width="1.3" />
+        <path d="M6 5v6m2-6v4" class="icon-stroke" stroke-width="1.3" />
+      </g>
+      <text x="42" y="24" class="mono pill-text">DJANGO</text>
+    </g>
+  </g>
+</svg>

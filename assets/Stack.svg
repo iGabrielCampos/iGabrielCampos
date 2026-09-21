@@ -1,0 +1,89 @@
+<svg width="800" height="380" viewBox="0 0 800 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .badge-title { font-weight: 700; font-size: 13px; letter-spacing: 1.5px; fill: #bb9af7; }
+      .card-title { font-weight: 600; font-size: 15px; fill: #c0caf5; }
+      .skill-label { font-size: 13px; fill: #c0caf5; }
+      .skill-level { font-size: 11px; fill: #565f89; }
+      .bar-bg { fill: #24283b; rx: 3px; }
+      .bar-fill { fill: #bb9af7; rx: 3px; }
+      .icon-stroke { stroke: #565f89; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2335" />
+      <stop offset="100%" stop-color="#1a1b27" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fundo Principal -->
+  <rect width="800" height="380" rx="14" fill="#1a1b27" stroke="#414868" stroke-width="1.2" />
+
+  <!-- Header Badge Centralizado -->
+  <g transform="translate(325, 24)">
+    <rect width="150" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
+    <text x="75" y="21" text-anchor="middle" class="mono badge-title">⚡ TECH STACK</text>
+  </g>
+
+  <!-- CARD 1: Backend -->
+  <g transform="translate(30, 80)">
+    <rect width="355" height="270" rx="10" fill="url(#cardGrad)" stroke="#414868" stroke-width="1" />
+    
+    <!-- Header do Card -->
+    <text x="20" y="36" class="mono card-title">🐍 Backend</text>
+    <!-- Ícone Copiar -->
+    <g transform="translate(315, 23)">
+      <rect x="0" y="4" width="12" height="12" rx="2" class="icon-stroke" />
+      <path d="M4 4V2a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-2" class="icon-stroke" />
+    </g>
+
+    <!-- Item 1: Python -->
+    <text x="20" y="74" class="mono skill-label">Python</text>
+    <text x="335" y="74" text-anchor="end" class="mono skill-level">core</text>
+    <rect x="20" y="84" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="84" width="285" height="6" class="bar-fill" />
+
+    <!-- Item 2: Django -->
+    <text x="20" y="122" class="mono skill-label">Django</text>
+    <text x="335" y="122" text-anchor="end" class="mono skill-level">core</text>
+    <rect x="20" y="132" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="132" width="270" height="6" class="bar-fill" />
+
+    <!-- Item 3: Django REST Framework -->
+    <text x="20" y="170" class="mono skill-label">Django REST Framework</text>
+    <text x="335" y="170" text-anchor="end" class="mono skill-level">proficient</text>
+    <rect x="20" y="180" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="180" width="215" height="6" class="bar-fill" />
+
+    <!-- Item 4: TypeScript -->
+    <text x="20" y="218" class="mono skill-label">TypeScript</text>
+    <text x="335" y="218" text-anchor="end" class="mono skill-level">proficient</text>
+    <rect x="20" y="228" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="228" width="190" height="6" class="bar-fill" />
+  </g>
+
+  <!-- CARD 2: Databases -->
+  <g transform="translate(415, 80)">
+    <rect width="355" height="270" rx="10" fill="url(#cardGrad)" stroke="#414868" stroke-width="1" />
+    
+    <!-- Header do Card -->
+    <text x="20" y="36" class="mono card-title">🗄️ Databases</text>
+    <!-- Ícone Copiar -->
+    <g transform="translate(315, 23)">
+      <rect x="0" y="4" width="12" height="12" rx="2" class="icon-stroke" />
+      <path d="M4 4V2a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-2" class="icon-stroke" />
+    </g>
+
+    <!-- Item 1: SQLite -->
+    <text x="20" y="74" class="mono skill-label">SQLite</text>
+    <text x="335" y="74" text-anchor="end" class="mono skill-level">proficient</text>
+    <rect x="20" y="84" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="84" width="225" height="6" class="bar-fill" fill="#7aa2f7" />
+
+    <!-- Item 2: PostgreSQL -->
+    <text x="20" y="122" class="mono skill-label">PostgreSQL</text>
+    <text x="335" y="122" text-anchor="end" class="mono skill-level">proficient</text>
+    <rect x="20" y="132" width="315" height="6" class="bar-bg" />
+    <rect x="20" y="132" width="205" height="6" class="bar-fill" fill="#7aa2f7" />
+  </g>
+</svg>
