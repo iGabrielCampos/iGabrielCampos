@@ -2,13 +2,29 @@
 
 ### 💻 Software Developer in Training | Fullstack | Python | Django
 
-![Profile views](https://komarev.com/ghpvc/?username=iGabrielCampos&color=bb9af7)
+<p align="center">
+  <a href="https://github.com/iGabrielCampos">
+    <img src="https://komarev.com/ghpvc/?username=iGabrielCampos&color=bb9af7" alt="Profile views" />
+  </a>
+</p>
 
 I am a Software Development student focusing mainly on **Fullstack** development and building web applications with **Python and Django**.
 
 Currently expanding my knowledge in web development, REST APIs, database architecture, and clean code best practices.
 
 Passionate about turning knowledge into practical projects and constantly evolving as a developer. 🚀
+
+---
+
+## 🎯 Current Focus
+
+* 📚 Studying Fullstack software engineering
+* 🐍 Deepening my knowledge in Python
+* 🌐 Developing modern web applications with Django
+* 🔌 Designing and consuming RESTful APIs
+* 🗄️ Database modeling and SQL architecture
+* 🔧 Mastering Git and GitHub workflows
+* 🚀 Building real-world projects to sharpen my skills
 
 ---
 
@@ -79,18 +95,6 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 </picture>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-* 📚 Studying Fullstack software engineering
-* 🐍 Deepening my knowledge in Python
-* 🌐 Developing modern web applications with Django
-* 🔌 Designing and consuming RESTful APIs
-* 🗄️ Database modeling and SQL architecture
-* 🔧 Mastering Git and GitHub workflows
-* 🚀 Building real-world projects to sharpen my skills
 
 ---
 
