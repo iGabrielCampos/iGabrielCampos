@@ -147,12 +147,14 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 <br><br>
 
-<sub>Feel free to reach out, connect, or explore my projects!</sub>
+<p>Feel free to reach out, connect, or explore my projects!</p>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bb9af7,50:1f2335,100:1a1b27&section=footer" width="100%" />
 
-<sub>"Always learning, always evolving." 🚀</sub>
+<br>
+
+<p><b>💡 "Always learning, always evolving." 🚀</b></p>
 
 </div>
