@@ -1,0 +1,43 @@
+<svg width="800" height="235" viewBox="0 0 800 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .term-title { font-size: 11px; fill: #565f89; font-weight: 500; }
+      .prompt-arrow { font-weight: 700; font-size: 13px; fill: #9ece6a; }
+      .prompt-path { font-weight: 600; font-size: 13px; fill: #7aa2f7; }
+      .cmd-text { font-weight: 600; font-size: 13px; fill: #bb9af7; }
+      .output-text { font-size: 12.5px; fill: #c0caf5; }
+      .key-text { font-size: 12.5px; fill: #7aa2f7; font-weight: 500; }
+      .val-text { font-size: 12.5px; fill: #9ece6a; }
+      .val-accent { font-size: 12.5px; fill: #e0af68; }
+      .bracket { font-size: 12.5px; fill: #bb9af7; }
+    </style>
+  </defs>
+
+  <!-- Fundo Principal -->
+  <rect width="800" height="235" rx="14" fill="#1a1b27" stroke="#414868" stroke-width="1.2" />
+
+  <!-- Barra de Título do Terminal -->
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#24283b" stroke-width="1" />
+  <circle cx="24" cy="18" r="5" fill="#f7768e" />
+  <circle cx="40" cy="18" r="5" fill="#e0af68" />
+  <circle cx="56" cy="18" r="5" fill="#9ece6a" />
+  <text x="400" y="22" text-anchor="middle" class="mono term-title">gabriel@campos: ~ (zsh)</text>
+
+  <!-- Bloco 1: whoami -->
+  <text x="24" y="62" class="mono prompt-arrow">➜</text>
+  <text x="42" y="62" class="mono prompt-path">~</text>
+  <text x="62" y="62" class="mono cmd-text">whoami</text>
+  <text x="24" y="84" class="mono output-text">Gabriel Campos <tspan fill="#565f89">—</tspan> Software Development Student &amp; Fullstack Enthusiast</text>
+
+  <!-- Bloco 2: cat profile.json -->
+  <text x="24" y="112" class="mono prompt-arrow">➜</text>
+  <text x="42" y="112" class="mono prompt-path">~</text>
+  <text x="62" y="112" class="mono cmd-text">cat profile.json</text>
+  
+  <text x="24" y="134" class="mono bracket">{</text>
+  <text x="44" y="154" class="mono key-text">"focus"<tspan fill="#c0caf5">:</tspan> <tspan class="val-text">"Python • Django • REST APIs • Database Architecture"</tspan><tspan fill="#c0caf5">,</tspan></text>
+  <text x="44" y="174" class="mono key-text">"learning"<tspan fill="#c0caf5">:</tspan> <tspan class="val-text">"Building robust web applications and clean code"</tspan><tspan fill="#c0caf5">,</tspan></text>
+  <text x="44" y="194" class="mono key-text">"status"<tspan fill="#c0caf5">:</tspan> <tspan class="val-accent">"Turning ideas into practical code &amp; evolving daily 🚀"</tspan></text>
+  <text x="24" y="214" class="mono bracket">}</text>
+</svg>

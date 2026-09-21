@@ -26,15 +26,17 @@
 
 </div>
 
-<img align="right" width="240" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=1a1b27&text=%26lt%3B%2F%26gt%3B&fontColor=bb9af7&fontSize=80&fontAlignY=55&stroke=414868&strokeWidth=1.5" />
-
 I am a Software Development student focusing mainly on **Fullstack** development and building web applications with **Python and Django**.
 
 Currently expanding my knowledge in web development, REST APIs, database architecture, and clean code best practices.
 
 Passionate about turning knowledge into practical projects and constantly evolving as a developer. 🚀
 
-<br clear="right"/>
+<br>
+
+<p align="center">
+  <img src="./assets/card-about.svg" alt="Gabriel Campos - Bio" />
+</p>
 
 ---
 
