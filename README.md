@@ -104,12 +104,9 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=iGabrielCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iGabrielCampos&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=iGabrielCampos&theme=tokyonight&hide_border=false"/>
+<img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iGabrielCampos&show_icons=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img height="195" src="https://streak-stats.demolab.com?user=iGabrielCampos&background=1a1b27&border=414868&stroke=414868&ring=bb9af7&fire=bb9af7&currStreakNum=bb9af7&sideNums=c0caf5&sideLabels=565f89&dates=565f89&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
