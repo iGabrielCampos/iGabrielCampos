@@ -1,0 +1,45 @@
+<svg width="380" height="190" viewBox="0 0 380 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .card-title { font-weight: 700; font-size: 15px; fill: #c0caf5; }
+      .tag-text { font-size: 10px; font-weight: 600; fill: #bb9af7; }
+      .card-desc { font-size: 12px; fill: #c0caf5; line-height: 1.5; }
+      .btn-text { font-weight: 700; font-size: 11px; fill: #1a1b27; letter-spacing: 0.5px; }
+      .tag-bg { fill: #292e42; stroke: #414868; stroke-width: 0.8; rx: 4px; }
+      .proj-card { fill: url(#cardGrad); stroke: #414868; stroke-width: 1.2; rx: 12px; }
+      .btn-cta { fill: #bb9af7; rx: 6px; }
+    </style>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2335" />
+      <stop offset="100%" stop-color="#1a1b27" />
+    </linearGradient>
+  </defs>
+
+  <rect width="380" height="190" class="proj-card" />
+
+  <!-- Título -->
+  <text x="24" y="34" class="mono card-title">⌨️ CRUD TypeScript</text>
+
+  <!-- Tags -->
+  <g transform="translate(24, 48)">
+    <rect width="82" height="22" class="tag-bg" />
+    <text x="41" y="15" text-anchor="middle" class="mono tag-text">TypeScript</text>
+  </g>
+  <g transform="translate(112, 48)">
+    <rect width="62" height="22" class="tag-bg" />
+    <text x="31" y="15" text-anchor="middle" class="mono tag-text">Node.js</text>
+  </g>
+
+  <!-- Descrição -->
+  <text x="24" y="96" class="mono card-desc">Complete TypeScript CRUD focusing on</text>
+  <text x="24" y="115" class="mono card-desc">static typing and best practices.</text>
+
+  <!-- Botão Visual -->
+  <g transform="translate(24, 136)">
+    <rect width="134" height="32" class="btn-cta" />
+    <!-- Mini GitHub Icon -->
+    <path d="M14 10a6 6 0 0 0-1.9 11.7c.3.1.4-.1.4-.3v-1.1c-1.7.4-2-.7-2-.7-.3-.7-.7-.9-.7-.9-.5-.4 0-.3 0-.3.6.1 1 .6 1 .6.5.9 1.4.7 1.8.5.1-.4.3-.7.4-.9-1.4-.2-2.8-.7-2.8-3.1 0-.7.2-1.2.7-1.7 0-.2-.3-.9.1-1.7 0 0 .5-.2 1.8.7a6.2 6.2 0 0 1 3.2 0c1.3-.9 1.8-.7 1.8-.7.4.8.1 1.5.1 1.7.5.5.7 1 .7 1.7 0 2.4-1.4 2.9-2.8 3.1.2.2.5.7.5 1.4v2.1c0 .2.1.4.4.3A6 6 0 0 0 14 10z" fill="#1a1b27" />
+    <text x="77" y="20" text-anchor="middle" class="mono btn-text">VIEW PROJECT</text>
+  </g>
+</svg>

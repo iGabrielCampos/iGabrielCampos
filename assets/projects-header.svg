@@ -1,0 +1,16 @@
+<svg width="800" height="85" viewBox="0 0 800 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .badge-title { font-weight: 700; font-size: 13px; letter-spacing: 1.5px; fill: #bb9af7; }
+      .subtitle { font-size: 13px; fill: #565f89; }
+    </style>
+  </defs>
+
+  <!-- Tag de Título Centralizada -->
+  <g transform="translate(330, 12)">
+    <rect width="140" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
+    <text x="70" y="21" text-anchor="middle" class="mono badge-title">✨ PROJECTS</text>
+  </g>
+  <text x="400" y="70" text-anchor="middle" class="mono subtitle">Selected projects highlighting my software development journey.</text>
+</svg>

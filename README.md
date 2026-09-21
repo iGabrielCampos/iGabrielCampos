@@ -25,13 +25,23 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 ---
 
 <p align="center">
-  <img src="./assets/Projetos.svg" alt="Featured Projects" />
+  <img src="./assets/projects-header.svg" alt="Featured Projects" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/iGabrielCampos/CineTrack"><b>🔗 CineTrack</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/iGabrielCampos/CRUD_typescript"><b>🔗 CRUD TypeScript</b></a>
+  <a href="https://github.com/iGabrielCampos/CineTrack" target="_blank">
+    <img src="./assets/card-cinetrack.svg" width="380" alt="CineTrack" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/iGabrielCampos/CRUD_typescript" target="_blank">
+    <img src="./assets/card-crud-typescript.svg" width="380" alt="CRUD TypeScript" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/card-studio-booking.svg" width="380" alt="Studio Booking System" />
+  &nbsp;
+  <img src="./assets/card-library-system.svg" width="380" alt="Library System" />
 </p>
 
 ---

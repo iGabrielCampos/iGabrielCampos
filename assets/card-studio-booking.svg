@@ -1,0 +1,43 @@
+<svg width="380" height="190" viewBox="0 0 380 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .card-title { font-weight: 700; font-size: 15px; fill: #c0caf5; }
+      .tag-text { font-size: 10px; font-weight: 600; fill: #bb9af7; }
+      .card-desc { font-size: 12px; fill: #c0caf5; line-height: 1.5; }
+      .btn-disabled-text { font-weight: 600; font-size: 11px; fill: #565f89; letter-spacing: 0.5px; }
+      .tag-bg { fill: #292e42; stroke: #414868; stroke-width: 0.8; rx: 4px; }
+      .proj-card { fill: url(#cardGrad); stroke: #414868; stroke-width: 1.2; rx: 12px; }
+      .btn-off { fill: #24283b; stroke: #414868; stroke-width: 0.8; rx: 6px; }
+    </style>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2335" />
+      <stop offset="100%" stop-color="#1a1b27" />
+    </linearGradient>
+  </defs>
+
+  <rect width="380" height="190" class="proj-card" />
+
+  <!-- Título -->
+  <text x="24" y="34" class="mono card-title">📻 Studio Booking System</text>
+
+  <!-- Tags -->
+  <g transform="translate(24, 48)">
+    <rect width="70" height="22" class="tag-bg" />
+    <text x="35" y="15" text-anchor="middle" class="mono tag-text">Modeling</text>
+  </g>
+  <g transform="translate(100, 48)">
+    <rect width="46" height="22" class="tag-bg" />
+    <text x="23" y="15" text-anchor="middle" class="mono tag-text">DER</text>
+  </g>
+
+  <!-- Descrição -->
+  <text x="24" y="96" class="mono card-desc">Database modeling and architecture for</text>
+  <text x="24" y="115" class="mono card-desc">recording studio schedule management.</text>
+
+  <!-- Botão Desabilitado / Sem código -->
+  <g transform="translate(24, 136)">
+    <rect width="134" height="32" class="btn-off" />
+    <text x="67" y="20" text-anchor="middle" class="mono btn-disabled-text">MODELING</text>
+  </g>
+</svg>
