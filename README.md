@@ -26,7 +26,7 @@
 
 </div>
 
-<img align="right" width="240" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=1a1b27&text=%3C%2F%3E&fontColor=bb9af7&fontSize=80&fontAlignY=55&stroke=414868&strokeWidth=1.5" />
+<img align="right" width="240" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=1a1b27&text=%26lt%3B%2F%26gt%3B&fontColor=bb9af7&fontSize=80&fontAlignY=55&stroke=414868&strokeWidth=1.5" />
 
 I am a Software Development student focusing mainly on **Fullstack** development and building web applications with **Python and Django**.
 
