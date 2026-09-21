@@ -58,11 +58,23 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 ## ⚡ Tech Stack
 
-<br>
+### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,ts,nodejs,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,ts,nodejs,html,css&theme=dark" />
 
 <br><br>
+
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,linux,bash&theme=dark" />
+
+<br><br>
+
+### ☁️ Cloud & Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+<br><br><br>
 
 <img src="./assets/Stack.svg" alt="My Tech Stack" />
 
@@ -104,7 +116,7 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 <br>
 
-<img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iGabrielCampos&show_icons=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iGabrielCampos&show_icons=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&border_color=414868&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 &nbsp;
 <img height="195" src="https://streak-stats.demolab.com?user=iGabrielCampos&background=1a1b27&border=414868&stroke=414868&ring=bb9af7&fire=bb9af7&currStreakNum=bb9af7&sideNums=c0caf5&sideLabels=565f89&dates=565f89&border_radius=12" alt="GitHub Streak" />
 
