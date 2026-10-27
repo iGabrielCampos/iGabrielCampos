@@ -26,16 +26,14 @@
 
 </div>
 
-I am a Software Development student focusing mainly on **Fullstack** development and building web applications with **Python and Django**.
+I am a Software Development student specializing in **Fullstack development** with a strong focus on **Python & Django**.
 
-Currently expanding my knowledge in web development, REST APIs, database architecture, and clean code best practices.
-
-Passionate about turning knowledge into practical projects and constantly evolving as a developer. 🚀
+Currently expanding my expertise in web architecture, RESTful API design, relational databases, and clean code best practices. Passionate about transforming architectural knowledge into real-world, high-impact applications. 🚀
 
 <br>
 
 <p align="center">
-  <img src="./assets/card-about.svg" alt="Gabriel Campos - Bio" />
+  <img src="./assets/card-about.svg" alt="Gabriel Campos - Bio Terminal" />
 </p>
 
 ---
@@ -46,75 +44,74 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 </div>
 
-* 📚 Studying Fullstack software engineering
-* 🐍 Deepening my knowledge in Python
-* 🌐 Developing modern web applications with Django
-* 🔌 Designing and consuming RESTful APIs
-* 🗄️ Database modeling and SQL architecture
-* 🔧 Mastering Git and GitHub workflows
-* 🚀 Building real-world projects to sharpen my skills
+* 🐍 **Python & Django Ecosystem:** Deepening architecture patterns, MTV design, and ORM optimizations
+* 🔌 **RESTful APIs:** Designing, consuming, and securing robust web services
+* 🗄️ **Data Persistence:** Relational database modeling with PostgreSQL and SQLite
+* 💻 **Modern Frontend:** Enhancing interactive client-side interfaces with TypeScript
+* 🔧 **Engineering Practices:** Git workflows, clean architecture, and automated CI/CD pipelines
 
 ---
 
 <div align="center">
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tooling
 
-### 💻 Languages & Frameworks
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,django,ts,nodejs,html,css&theme=dark" />
+**🐍 Backend & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite&theme=dark" alt="Backend Stack" />
+</p>
 
-<br><br>
+<br>
 
-### 🗄️ Databases & Infrastructure
+**💻 Frontend & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,html,css&theme=dark" alt="Frontend Stack" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,linux,bash&theme=dark" />
+<br>
 
-<br><br>
-
-### ☁️ Cloud & Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-<br><br><br>
-
-<img src="./assets/Stack.svg" alt="My Tech Stack" />
+**🛠️ DevOps & Development Environment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode&theme=dark" alt="Tools & Environment" />
+</p>
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="./assets/Ferramentas.svg" alt="Tools & Workflow" />
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/projects-header.svg" alt="Featured Projects" />
+  <img src="./assets/projects-header.svg" alt="Featured Work" />
 </p>
 
 <p align="center">
   <a href="https://github.com/iGabrielCampos/CineTrack" target="_blank">
-    <img src="./assets/card-cinetrack.svg" width="380" alt="CineTrack" />
+    <img src="./assets/card-cinetrack.svg" width="800" alt="CineTrack - Featured Project" />
   </a>
-  &nbsp;
-  <a href="https://github.com/iGabrielCampos/CRUD_typescript" target="_blank">
-    <img src="./assets/card-crud-typescript.svg" width="380" alt="CRUD TypeScript" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="./assets/card-studio-booking.svg" width="380" alt="Studio Booking System" />
-  &nbsp;
-  <img src="./assets/card-library-system.svg" width="380" alt="Library System" />
 </p>
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+## ⚡ Recent GitHub Activity
+
+</div>
+
+<!-- RECENT_ACTIVITY:START -->
+- ⭐ Starred [`SnailSploit/Claude-Red`](https://github.com/SnailSploit/Claude-Red)
+- 🔨 Pushed code to `main` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔨 Pushed code to `main` in [`emanoelmaxiensc7m-creator/projeto-integrador-frontend-emanoel-max-`](https://github.com/emanoelmaxiensc7m-creator/projeto-integrador-frontend-emanoel-max-)
+- 🔨 Pushed code to `feature/js-logica` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🌱 Created branch `feature/js-logica` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
 
 <br>
 
@@ -128,7 +125,7 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 <div align="center">
 
-## 🐍 GitHub Contributions
+## 🐍 Contribution Graph
 
 <br>
 
@@ -148,17 +145,21 @@ Passionate about turning knowledge into practical projects and constantly evolvi
 
 <br>
 
-<a href="https://github.com/iGabrielCampos">
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7">
+<a href="https://github.com/iGabrielCampos" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gabriel-campos-2604b2411">
-<img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7">
+<a href="https://www.linkedin.com/in/gabriel-campos-2604b2411" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7">
+</a>
+&nbsp;
+<a href="https://igabrielcampos.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7">
 </a>
 
 <br><br>
 
-<p>Feel free to reach out, connect, or explore my projects!</p>
+<p>Feel free to reach out, connect, or explore my repositories!</p>
 
 <br>
 

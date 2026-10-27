@@ -8,9 +8,9 @@
   </defs>
 
   <!-- Tag de Título Centralizada -->
-  <g transform="translate(330, 12)">
-    <rect width="140" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
-    <text x="70" y="21" text-anchor="middle" class="mono badge-title">✨ PROJECTS</text>
+  <g transform="translate(310, 12)">
+    <rect width="180" height="32" rx="16" fill="#292e42" stroke="#414868" stroke-width="1" />
+    <text x="90" y="21" text-anchor="middle" class="mono badge-title">✨ FEATURED WORK</text>
   </g>
-  <text x="400" y="70" text-anchor="middle" class="mono subtitle">Selected projects highlighting my software development journey.</text>
+  <text x="400" y="70" text-anchor="middle" class="mono subtitle">Spotlight project highlighting my software development journey.</text>
 </svg>
