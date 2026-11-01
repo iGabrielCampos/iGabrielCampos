@@ -100,11 +100,11 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- 🔀 Merged PR #7 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔀 Opened PR #7 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔀 Merged PR #6 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔀 Opened PR #6 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - ⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
-- 🔨 Pushed code to `main` in [`iGabrielCampos/iGabrielCampos`](https://github.com/iGabrielCampos/iGabrielCampos)
-- ⭐ Starred [`cloudflare/security-audit-skill`](https://github.com/cloudflare/security-audit-skill)
-- ⭐ Starred [`SnailSploit/Claude-Red`](https://github.com/SnailSploit/Claude-Red)
-- 🔨 Pushed code to `main` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
