@@ -100,11 +100,11 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- 🌱 Created branch `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔨 Pushed code to `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔨 Pushed code to `main` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔨 Pushed code to `main` in [`iGabrielCampos/iGabrielCampos.github.io`](https://github.com/iGabrielCampos/iGabrielCampos.github.io)
 - 🔀 Merged PR #7 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- 🔀 Opened PR #7 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- 🔀 Merged PR #6 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- 🔀 Opened PR #6 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- ⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
