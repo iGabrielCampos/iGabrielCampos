@@ -100,11 +100,11 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- ⭐ Starred [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra)
+- ⭐ Starred [`harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo)
 - 🌱 Created branch `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🔨 Pushed code to `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- 🔨 Pushed code to `main` in [`iGabrielCampos/iGabrielCampos.github.io`](https://github.com/iGabrielCampos/iGabrielCampos.github.io)
-- 🔀 Merged PR #7 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
