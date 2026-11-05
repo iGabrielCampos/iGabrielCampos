@@ -100,11 +100,11 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- ⭐ Starred [`togg53192-cmd/jailbreaks`](https://github.com/togg53192-cmd/jailbreaks)
+- 🔨 Pushed code to `main` in [`iGabrielCampos/Algoritimos_C`](https://github.com/iGabrielCampos/Algoritimos_C)
 - ⭐ Starred [`stablyai/orca`](https://github.com/stablyai/orca)
 - ⭐ Starred [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra)
 - ⭐ Starred [`harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo)
-- 🌱 Created branch `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
-- 🔨 Pushed code to `feature/js-funcoes-dom` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
