@@ -100,9 +100,9 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- 🔨 Pushed code to `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/Algoritimos_C`](https://github.com/iGabrielCampos/Algoritimos_C)
 - ⭐ Starred [`h4ckf0r0day/obscura`](https://github.com/h4ckf0r0day/obscura)
-- 🔨 Pushed code to `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
 - 🌱 Created branch `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
 - ⭐ Starred [`togg53192-cmd/jailbreaks`](https://github.com/togg53192-cmd/jailbreaks)
 <!-- RECENT_ACTIVITY:END -->
