@@ -100,11 +100,11 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+- 🌱 Created branch `feature/js-dom-eventos` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🔀 Closed PR #8 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🔀 Opened PR #8 in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/Algoritimos_C`](https://github.com/iGabrielCampos/Algoritimos_C)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
-- ⭐ Starred [`h4ckf0r0day/obscura`](https://github.com/h4ckf0r0day/obscura)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
