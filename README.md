@@ -13,7 +13,7 @@
 <br>
 
 <a href="https://github.com/iGabrielCampos">
-  <img src="https://hits.sh/github.com/iGabrielCampos.svg?label=Profile%20views&color=bb9af7&extraCount=44" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iGabrielCampos&label=Profile%20views&color=bb9af7&style=flat" alt="Profile views" />
 </a>
 
 </div>
