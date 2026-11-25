@@ -100,8 +100,8 @@ Currently expanding my expertise in web architecture, RESTful API design, relati
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pushed code to `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
+- 🔨 Pushed code to `main` in [`iGabrielCampos/Projeto_Integrador`](https://github.com/iGabrielCampos/Projeto_Integrador)
 - 🔨 Pushed code to `main` in [`iGabrielCampos/Algoritimos_C`](https://github.com/iGabrielCampos/Algoritimos_C)
 - 🌱 Created branch `feature/js-dom-eventos` in [`iGabrielCampos/projeto-integrador-frontend-Gabriel`](https://github.com/iGabrielCampos/projeto-integrador-frontend-Gabriel)
 - 🌱 Created branch `Develop` in [`IPauloGermano/AgentStick`](https://github.com/IPauloGermano/AgentStick)
